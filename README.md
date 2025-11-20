@@ -8,6 +8,8 @@ Agrosense Farmer App: AI-driven mobile solution for precision farming. Optimizes
 
 HOW TO START THE PRODUCT : (Incorported in the video prototype denonstration)
 - launch and host in on the local server
+- Ensure you create a folder of any arbitrary file name --> then add the zip extracted folder - AgroSense to it
+- --> Open the Arbitrary File in vs code/IDE  
 - --> Open Terminal in VS Code (or any IDE)
 - npm install
 - cd AgroSense (Change directory)
