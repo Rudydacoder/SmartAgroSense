@@ -4,7 +4,7 @@ Agrosense Farmer App: AI-driven mobile solution for precision farming. Optimizes
 **TO ACCESS THE CODE FILES { DUE TO LARGE FILE SPACE AND EASY ACCESIBILITY }**
 - Kindly visit the **Tags** section
 - Select the **v1.0 Tag** option
-- the Public Releases contain the zip file along with a complementary json file
+- the Public Releases contain the zip file 
 
 HOW TO START THE PRODUCT : (Incorported in the video prototype denonstration)
 - launch and host in on the local server
